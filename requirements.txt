@@ -1,0 +1,6 @@
+To run a server usint this API, the prerequisites are:
+
+1. flask and flask-restful. The server runs on these python libraries. 
+2. MySQL
+3. wamp - to run the mysql server 
+4. A web browser, which you will almost certainly have if you are not a neanderthal. 
